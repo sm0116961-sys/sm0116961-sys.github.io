@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suresh.voterkhoj",
+    "sha256_cert_fingerprints": ["C6:47:C3:B9:3E:8F:8E:63:65:D1:0B:23:F7:6C:B7:8D:06:3A:22:5E:0C:01:69:6E:18:47:ED:0A:50:43:34:2F"]
+  }
+}]
